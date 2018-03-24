@@ -1,6 +1,6 @@
 $( document ).ready(function() {
-    // An array of actions, new actions will be pushed into this array;
-    var actions = ["Dancing", "Jogging", "Falling", "Reading", "Pushing", "Swimming", "Eating", "Skipping", "Crying", "Winking","Beyoncing", "Strolling", "Hopping"];
+    // An array of superheros, new superheros will be pushed into this array;
+    var actions = ["Batman", "Robin", "Nightwing", "Red Hood", "Green Arrow", "Black Canary", "The Flash", "Spiderman", "Iron Man", "Captian America","The Hulk", "Thor", "Hawkeye"];
     // Creating Functions & Methods
     // Function that displays all gif buttons
     function displayGifButtons(){

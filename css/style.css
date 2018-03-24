@@ -3,6 +3,7 @@ body{
 	background-size: 100%;
     background-repeat: no-repeat;
     color: black;
+    font-family: 'Bangers', cursive;
 }
 * {
 	box-sizing: border-box;
@@ -25,16 +26,19 @@ img {
 .container {
 	background-color: #fff;
 	opacity: 0.8;
-	padding: 20px;
+    padding: 20px;
+    font-family: 'Bangers', cursive;
 }
 .jumbotron {
     background-color: inherit;
 }
 .jumbotron .h1, .jumbotron h1 {
     text-align: center;
+    font-family: 'Bangers', cursive;
 }
 #copyright{
-	font-size: 14px;
+    font-size: 14px;
+    font-family: 'Bangers', cursive;
 }
 div#footer {
 	clear: both;
@@ -42,5 +46,6 @@ div#footer {
 	position: center;
 	bottom: 0;
 	left: 0;
-	text-align: center;
+    text-align: center;
+    font-family: 'Bangers', cursive;
 }
